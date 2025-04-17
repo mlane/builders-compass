@@ -108,6 +108,7 @@ You need:
 
 - [MIT License](./LICENSE)
 - Created by [Marcus Lane](https://github.com/mlane)
+- Companion guide: [Code and the Mind](https://github.com/mlane/code-and-the-mind)
 - Built to share. Fork it, remix it, make it yours.
 
 If it helped you, help someone else: **share it.**
